@@ -1,0 +1,8 @@
+In order to run this demo, you need to install tensorflow for python 3.6 (Anaconda). My platform is window10(other platform will be OK if tensorflow supports), and all tested Graphics Cards have at least 3G memory, check your card's memory and make sure it is able to run this demo.
+
+the code was written with tensorflow 1.12.0, and may not compatiable with the newest tensorflow(or other versions), make sure you install the right version of tensorflow if problem occurs.
+Or you can hack the code yourself(I think serval small changes will be enough).
+
+This is a demo for Indian_pines，Pavia University  , Salinas，Houston dataset. If  you are not familiar with the content of the code, you can contact  guohao1220ily@163.com.
+
+Our paper has been published on IEEE Xplore. If you find it is useful, please kindly cite this paper "H. Guo, J. Liu, J. Yang, Z. Xiao and Z. Wu, "Deep Collaborative Attention Network for Hyperspectral Image Classification by Combining 2-D CNN and 3-D CNN," in IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, vol. 13, pp. 4789-4802, 2020, doi: 10.1109/JSTARS.2020.3016739."
